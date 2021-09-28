@@ -4,10 +4,5 @@ bugfix
 new api
 NEW API BRANCH
 first_b text
-<<<<<<< HEAD
 SECON Developer changes
-SECOND DEVELOPER
-=======
-INDEX
 SECOND CHANGES first developer
->>>>>>> 7a847b346446cbe9e134ef59198c39050d1f9f6c
